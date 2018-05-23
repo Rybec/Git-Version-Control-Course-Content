@@ -50,7 +50,19 @@ Git Version Control Course Schedule
 ## Week 4 (May 14)
 ### Objectives
 - Understand Directed Graphs
+### Reading
+- None
+
+### Assignments
+- Watch the rest of [Git for Ages 4 and Up](https://www.youtube.com/watch?v=1ffBJ4sVUb4)
+- See if you can figure out how to traverse a repository on your own
+
+- - - -
+
+## Week 5 (May 21)
+### Objectives
 - Know how to traverse a Git repository
+
 
 ### Reading
 - None
@@ -60,21 +72,9 @@ Git Version Control Course Schedule
 
 - - - -
 
-## Week 5 (May 21)
-### Objectives
-- TBA
-
-### Reading
-- None
-
-### Assignments
-- TBA
-
-- - - -
-
 ## Week 6 (May 28)
 ### Objectives
-- TBA
+- Know how and when to use rebase
 
 ### Reading
 - None
