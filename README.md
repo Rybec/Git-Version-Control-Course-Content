@@ -92,7 +92,8 @@ Git Version Control Course Schedule
 - None
 
 ### Assignments
-- TBA
+- Create a repository with a branch.  Make commits on master and the branch, then rebase the branch onto master.
+- Use an interactive rebase to roll trivial commits together.
 
 - - - -
 
