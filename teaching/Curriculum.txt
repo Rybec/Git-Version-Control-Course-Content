@@ -1,0 +1,11 @@
+Week 1
+  Introduce Git
+    Creator: Linux Torvalds
+    Purpose: Linux Kernel Version Control and Collaboration
+  What is version control?
+  What is version control useful for?
+  Install Git
+  How to create bare and working repositories
+  How to clone a repository
+
+Week 2
