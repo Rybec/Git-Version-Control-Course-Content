@@ -33,8 +33,10 @@ Work is typically due the week after it is assigned
 - Write a simple extension for git
 
 ## Week 10
-...
+- Fork the [git-merge-assignment repository](https://github.com/Rybec/git-merge-assignment)
 
+## Week 12
+- Add a new file to your fork of the [git-merge-assignment repository](https://github.com/Rybec/git-merge-assignment) and submit a pull request with your changes
 
-
-
+## Week 13
+- In class, review someone else's pull request and merge it
